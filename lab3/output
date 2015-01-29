@@ -1,0 +1,11 @@
+Script started on Thu 29 Jan 2015 01:51:12 AM PST
+]0;thomas@localhost:~/Dropbox/School/cse455/labs/lab-assignments/lab3]7;file://localhost.localdomain/home/thomas/Dropbox/School/cse455/labs/lab-assignments/lab3[thomas@localhost lab3]$ g++ Array.h Array.cpp Arraytest.cpp
+]0;thomas@localhost:~/Dropbox/School/cse455/labs/lab-assignments/lab3]7;file://localhost.localdomain/home/thomas/Dropbox/School/cse455/labs/lab-assignments/lab3[thomas@localhost lab3]$ ./a.out
+Testing array size. Expected 0.
+Array size is correct... **PASS**
+Testing Array.isEmpty(), expected value TRUE or 1: 
+Array is empty.... **PASS**
+All Unit Testing Passed.
+]0;thomas@localhost:~/Dropbox/School/cse455/labs/lab-assignments/lab3]7;file://localhost.localdomain/home/thomas/Dropbox/School/cse455/labs/lab-assignments/lab3[thomas@localhost lab3]$ exit
+
+Script done on Thu 29 Jan 2015 01:51:35 AM PST
